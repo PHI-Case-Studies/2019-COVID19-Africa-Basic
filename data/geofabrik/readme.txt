@@ -1,0 +1,1 @@
+This folder is for Geofabrik downloads for building footprints.
